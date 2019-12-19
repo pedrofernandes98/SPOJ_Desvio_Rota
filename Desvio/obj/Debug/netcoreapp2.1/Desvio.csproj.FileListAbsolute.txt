@@ -1,0 +1,22 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\bin\Debug\netcoreapp2.1\Desvio.deps.json
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\bin\Debug\netcoreapp2.1\Desvio.runtimeconfig.json
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\bin\Debug\netcoreapp2.1\Desvio.runtimeconfig.dev.json
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\bin\Debug\netcoreapp2.1\Desvio.dll
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\bin\Debug\netcoreapp2.1\Desvio.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\obj\Debug\netcoreapp2.1\Desvio.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\obj\Debug\netcoreapp2.1\Desvio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\obj\Debug\netcoreapp2.1\Desvio.AssemblyInfoInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\obj\Debug\netcoreapp2.1\Desvio.AssemblyInfo.cs
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\obj\Debug\netcoreapp2.1\Desvio.dll
+C:\Users\Pedro Fernandes\Desktop\PUC\3° Período\Algoritmos em Grafos\Desvio\Desvio\Desvio\obj\Debug\netcoreapp2.1\Desvio.pdb
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\bin\Debug\netcoreapp2.1\Desvio.deps.json
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\bin\Debug\netcoreapp2.1\Desvio.runtimeconfig.json
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\bin\Debug\netcoreapp2.1\Desvio.runtimeconfig.dev.json
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\bin\Debug\netcoreapp2.1\Desvio.dll
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\bin\Debug\netcoreapp2.1\Desvio.pdb
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\obj\Debug\netcoreapp2.1\Desvio.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\obj\Debug\netcoreapp2.1\Desvio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\obj\Debug\netcoreapp2.1\Desvio.AssemblyInfoInputs.cache
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\obj\Debug\netcoreapp2.1\Desvio.AssemblyInfo.cs
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\obj\Debug\netcoreapp2.1\Desvio.dll
+C:\Users\Pedro Fernandes\Desktop\gitProjects\Desvio\SPOJ_Desvio_Rota\Desvio\obj\Debug\netcoreapp2.1\Desvio.pdb
